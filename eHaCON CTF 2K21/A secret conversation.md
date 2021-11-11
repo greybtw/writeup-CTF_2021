@@ -12,16 +12,20 @@ Mark has achieved somthing in the year 2010
 ```
 Search about `Mark Nottingham` in 2010
 
+![Search Mark Nottingham 2010](./img/A%20secret%20conservation/searchh-mark-2010-in-google.png)
 
 We saw something related to `RFC` right? It's  `RFC 5988` in 2010. 
 
-
 Click it to view more detail and find with key `2010`. I got 2 papers was released in 2010
+
+![Search Mark Nottingham 2010](./img/A%20secret%20conservation/filter-2010.png)
 
 The next step is search about 2 RFC standard in CTF
 - `RFC 5988`
 - `RFC 5785`
-I tried with `5988` first, when it was failed I step to `5785` and got a endpoint 😀 `.well-known` 
+I tried with `5988` first, when it was failed I step to `5785` and got a endpoint 😀 `/.well-known` 
+
+![Search Mark Nottingham 2010](./img/A%20secret%20conservation/directory-listing.png)
 
 Access the file `flag.txt` to capture the flag
 ```

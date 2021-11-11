@@ -1,4 +1,4 @@
-# A secret conversation
+# Include me
 ## Description
 
 > Zero Dollar Security is hiring infosec enthusiast. Apply ASAP. Connect at chall.ctf-ehcon.ml:32104

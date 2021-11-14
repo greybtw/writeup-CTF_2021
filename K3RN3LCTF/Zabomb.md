@@ -7,6 +7,11 @@
 
 ## Solution
 
+```
+I think this is not reverse challenge :) It's more forensics 
+```
+
+
 Dont try to unzip this file, it can fill out your disk.
 
 Check it out the file by some application such as `7z`, it has a strange file. Cause other files is medium or very large 
